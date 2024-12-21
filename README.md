@@ -10,12 +10,11 @@ OVERVIEW OF THE PROJECT
 
 Project:NLP-sentiment-analysis-in-python
 
-objective
+OBJECTIVE
 
 This script will demonstrate how to create a machine learning model which will predict if the new incoming customer review is positive or negative. For this article, we will use amazon’s food review dataset available at kaggle.
 
 For complete tutorial and source code explanation, read the blog post
-
 
 
 OVERVIEW OF THE PROJECT
